@@ -3,11 +3,11 @@
 Welcome to my portfolio! This repository showcases my projects and work in data science and data engineering. Below you'll find an overview of the various projects and visualizations I have created, highlighting my skills and experience in these fields.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Projects](#projects)
-- [Visualizations](#visualizations)
-- [Setup and Usage](#setup-and-usage)
-- [Contact](#contact)
+- [Introduction]
+- [Projects]
+- [Visualizations]
+- [Setup and Usage]
+- [Contact]
 
 ## Introduction
 

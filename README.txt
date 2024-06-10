@@ -29,15 +29,4 @@ I am a passionate data scientist with a strong foundation in statistical analysi
 
 In my Tableau projects, I have created dynamic and interactive visualizations to transform complex datasets into actionable insights. These projects demonstrate my ability to analyze, interpret, and present data effectively, driving strategic decisions across various domains such as sales, customer segmentation, finance, healthcare, and supply chain management.
 
-[Visualizations Page](https://your-username.github.io/visualizations.html)
-
-## Setup and Usage
-
-### Cloning the Repository
-
-To clone this repository and explore the projects locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-portfolio-repo.git
-   cd your-portfolio-repo
+[Visualizations Page](https://public.tableau.com/app/profile/jialin.you7828/vizzes)
